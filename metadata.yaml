@@ -1,0 +1,38 @@
+_repo: The-book-of-friendly-giants_69746
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Pamela Colman
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '43206'
+    url: http://www.gutenberg.org/2009/agents/43206
+    wikipedia: https://en.wikipedia.org/wiki/Pamela_Colman_Smith
+creator:
+  authors:
+  - agent_name: Barnard, Seymour
+    gutenberg_agent_id: '55399'
+    url: http://www.gutenberg.org/2009/agents/55399
+  - agent_name: Fuller, Eunice
+    gutenberg_agent_id: '55398'
+    url: http://www.gutenberg.org/2009/agents/55398
+description: ''
+gutenberg_issued: '2023-01-08'
+identifiers:
+  gutenberg: '69746'
+language: en
+pgterms:marc904: https://archive.org/details/bookoffriendlygi00full
+pgterms:marc905: 20210918173145fuller
+pgterms:marc906: '1914'
+pgterms:marc907: NY
+production_note: ellinora and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'NY: The Century Co.,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The book of friendly giants
+url: http://www.gutenberg.org/ebooks/69746
