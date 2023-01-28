@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '43206'
     url: http://www.gutenberg.org/2009/agents/43206
     wikipedia: https://en.wikipedia.org/wiki/Pamela_Colman_Smith
+covers:
+- cover_type: archival
+  image_path: 69746-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barnard, Seymour
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55398'
     url: http://www.gutenberg.org/2009/agents/55398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69746#The-book-of-friendly-giants
 gutenberg_issued: '2023-01-08'
 identifiers:
   gutenberg: '69746'
